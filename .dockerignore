@@ -1,0 +1,7 @@
+__pycache__/
+vendor/
+spec/
+.git
+.gitignore
+README.md
+compose.yml
